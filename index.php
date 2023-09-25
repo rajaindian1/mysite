@@ -1,7 +1,7 @@
 <div>
-<h3>    
+<p class="h2">
 <center>
 <?php echo('Working with GitHub Codespaces by Raja') ?>
 </center>
-</h3>
+</p>
 </div>
